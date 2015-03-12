@@ -1,0 +1,3 @@
+Find directory--->F:\zgq\MyGitHub\Tools\MGExcelTool\MGExcelTool\bin\Debug\ConfigExcels
+成功生成cs文件：F:\zgq\MyGitHub\Tools\MGExcelTool\MGExcelTool\bin\Debug\Output\ConfigCS\Sample.cs
+成功生成xml文件：F:\zgq\MyGitHub\Tools\MGExcelTool\MGExcelTool\bin\Debug\Output\ConfigXmls\Sample.xml
